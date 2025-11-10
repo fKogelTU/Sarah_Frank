@@ -7,3 +7,4 @@ jupyter-book
 jupyterlab_myst
 ipykernel
 ipywidgets
+os
