@@ -59,3 +59,6 @@ project:
       #   children:
       #     - file: Content/Labs/druksensorijken.ipynb
       #     - file: Content/Labs/pV_diagram.ipynb
+      title: Thermo
+      children:
+      	- file: Content/Labs/cappuchino.ipynb
