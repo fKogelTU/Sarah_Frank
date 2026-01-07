@@ -40,7 +40,7 @@ project:
         - file: Content/PySim/3_recap.ipynb
         - file: Content/PySim/4_brownianmotion.ipynb
         - file: Content/PySim/5_druktemp.ipynb
-        # - file: Content/PySim/6_boltzmann.ipynb
+        - file: Content/PySim/6_boltzmann.ipynb
         # - file: Content/PySim/7_arbeid.ipynb
         # - file: Content/PySim/8_thermostaat.ipynb
         # - file: Content/PySim/9_entropie.ipynb
@@ -61,4 +61,4 @@ project:
       #     - file: Content/Labs/pV_diagram.ipynb
       title: Thermo
       children:
-      	- file: Content/Labs/cappuchino.ipynb
+      	- file: Content/Labs/cappucchino.ipynb
